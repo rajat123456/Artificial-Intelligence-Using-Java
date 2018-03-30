@@ -1,1 +1,1 @@
-Java Source Code Implemntation of Practical Swarm Optimization Algorithm
+Java Source Code Implemntation of Partical Swarm Optimization Algorithm
