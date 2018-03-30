@@ -1,4 +1,4 @@
-This is the Game which is built using Minimax Algorithms as well as Alpha Beta Pruning Concept.
+This is the final Game which is built using Minimax Algorithm as well as Alpha Beta Pruning Concept.
 It is basically the small project, which is built using the concepts of Artificial Intelligence like:
 
 - Graphs algorithms
